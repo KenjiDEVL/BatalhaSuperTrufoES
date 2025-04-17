@@ -148,7 +148,7 @@ int main() {
     } else if (somaCidade1 < somaCidade2) {
         printf("\n*** A Cidade 2 (%s) venceu com a maior soma de atributos! ***\n", nome2);
     } else {
-        printf("\n*** Empate! ***\n");
+        printf("\n*** As Cartaz empataram!  ***\n");
     }
 
     return 0;
